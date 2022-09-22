@@ -66,4 +66,4 @@ To learn GraphQL, queries and mutations, check out the [GraphQL documentation](h
 
 ## License
 
-[MIT](https://github.com/anyapages/graphql-restaurant-data-exercise/blob/main/LICENSE) 
+MIT 2022
